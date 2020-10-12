@@ -8,4 +8,4 @@
 * Página de Carrinho de compras
 * Página de consulta de vendas
 * Banco de dados
-*-Conforme o projeto de design já especificado.
+* -Conforme o projeto de design já especificado.
